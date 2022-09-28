@@ -1,0 +1,39 @@
+body{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.card{
+    position: relative;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.3);
+    box-shadow: 5px 5px 30px rgba(0,0,0, 0.4) ;
+    width: 500px;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    background-color: red;
+}
+
+#cardsignin{
+    height: 500px;
+    background-color: pink;
+}
+
+.success{
+    color: green;
+}
+
+.error{
+    color: red;
+}
